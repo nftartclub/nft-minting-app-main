@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x522e351c161Dc45B5c37409227963A26A25Fb168",
+  "SCAN_LINK": "https://polygonscan.com/token/0x522e351c161Dc45B5c37409227963A26A25Fb168",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Contemplating Chaos",
+  "SYMBOL": "SB",
+  "MAX_SUPPLY": 8199,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
